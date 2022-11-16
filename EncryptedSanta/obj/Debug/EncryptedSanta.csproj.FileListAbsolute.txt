@@ -1,0 +1,10 @@
+C:\Users\NG8C6D8\Documents\GithubProjects\EncryptedSanta\EncryptedSanta\bin\Debug\EncryptedSanta.exe.config
+C:\Users\NG8C6D8\Documents\GithubProjects\EncryptedSanta\EncryptedSanta\bin\Debug\EncryptedSanta.exe
+C:\Users\NG8C6D8\Documents\GithubProjects\EncryptedSanta\EncryptedSanta\bin\Debug\EncryptedSanta.pdb
+C:\Users\NG8C6D8\Documents\GithubProjects\EncryptedSanta\EncryptedSanta\obj\Debug\EncryptedSanta.csprojAssemblyReference.cache
+C:\Users\NG8C6D8\Documents\GithubProjects\EncryptedSanta\EncryptedSanta\obj\Debug\EncryptedSanta.Form1.resources
+C:\Users\NG8C6D8\Documents\GithubProjects\EncryptedSanta\EncryptedSanta\obj\Debug\EncryptedSanta.Properties.Resources.resources
+C:\Users\NG8C6D8\Documents\GithubProjects\EncryptedSanta\EncryptedSanta\obj\Debug\EncryptedSanta.csproj.GenerateResource.cache
+C:\Users\NG8C6D8\Documents\GithubProjects\EncryptedSanta\EncryptedSanta\obj\Debug\EncryptedSanta.csproj.CoreCompileInputs.cache
+C:\Users\NG8C6D8\Documents\GithubProjects\EncryptedSanta\EncryptedSanta\obj\Debug\EncryptedSanta.exe
+C:\Users\NG8C6D8\Documents\GithubProjects\EncryptedSanta\EncryptedSanta\obj\Debug\EncryptedSanta.pdb
